@@ -1,3 +1,0 @@
-hello
-I decided to try and work on this thing to see where it would get me.
-    -I see the amazing advantage using git, if it's all connected on everything, plus makes it workable.
