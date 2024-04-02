@@ -1,2 +1,18 @@
 Hello fred!
 I love the flinnstones.
+Another mkdir <name>
+
+	cd <name>
+
+	git init
+	
+	echo hello > "Name ..."
+	git add .
+	git commit -m
+	git status
+	git ls-files
+
+	git log --all --decorate --oneline --graph
+	git push	
+	git pull
+
