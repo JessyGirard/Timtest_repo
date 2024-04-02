@@ -16,3 +16,5 @@ Another mkdir <name>
 	git push	
 	git pull
 
+Hi
+4/1/2024 22:33h I'm going to see if I'm getting any better at playing this little game.
